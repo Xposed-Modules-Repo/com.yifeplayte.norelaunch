@@ -1,0 +1,2 @@
+屏蔽指定配置变更导致的 Activity 重启
+Prevent Activity restarts caused by configuration changes
